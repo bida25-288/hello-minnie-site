@@ -1,0 +1,63 @@
+/* Reset default browser spacing */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e596c8;
+}
+
+/* Header */
+header {
+    background-color: #7d2866;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+/* Navigation */
+nav {
+    background-color: #6f1f28;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Section */
+section {
+    background-color: #f8cdda;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Products */
+.product {
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    background-color: #7d2866;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
